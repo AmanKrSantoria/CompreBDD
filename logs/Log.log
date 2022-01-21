@@ -216,3 +216,94 @@
 [main] DEBUG LoginPage.java  - Login is clicked and user lands on homepage
 [main] INFO  Hooks.class  - Driver closed
 [main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] INFO  Hooks.class  - Driver opened
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Savaari website is displayed
+[main] INFO  AirportPage.java  - fromcitydetailsentered
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  localpage.java  - switchtab
+[main] INFO  Test2  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test4  - Savaari website is displayed
+[main] INFO  CorporateCarRental.java  - name
+[main] INFO  CorporateCarRental.java  - comapny
+[main] INFO  CorporateCarRental.java  - email
+[main] INFO  CorporateCarRental.java  - Phone no
+[main] INFO  CorporateCarRental.java  - Volumn selected
+[main] INFO  CorporateCarRental.java  - Submit button clicked
+[main] INFO  CorporateCarRental.java  - text validates
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedBook Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - validatedGaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  outstationpageobject.java  - clickedonoutstation
+[main] INFO  Test3  - Savaari website is displayed
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LoginPage.java  - Sign in icon is clicked
+[main] DEBUG LoginPage.java  - Valid name id is entered
+[main] DEBUG LoginPage.java  - Valid Phone number is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Valid Email id is entered
+[main] DEBUG LoginPage.java  - Login is clicked and user lands on homepage
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver

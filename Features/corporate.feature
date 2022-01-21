@@ -15,4 +15,4 @@ Feature: Corporate car Rental under services
 
     Examples: 
       | Name   | Company      | EmailId         | Contactnum   |volume                    |text                              |
-      | "Deepith"  | "Mindtree"   | "xyz@gmail.com" | "1234567899" |"Greater than ₹ 500,000"  |"THANK YOU FOR ENQUIRING WITH US!"|
+      | "Aman"  | "Mindtree"   | "xyz@gmail.com" | "1234567899" |"Greater than ₹ 500,000"  |"THANK YOU FOR ENQUIRING WITH US!"|
